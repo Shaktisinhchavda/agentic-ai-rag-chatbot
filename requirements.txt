@@ -1,0 +1,8 @@
+langchain
+langgraph
+langchain-community
+langchain-groq
+pinecone-client
+pypdf
+sentence-transformers
+streamlit
